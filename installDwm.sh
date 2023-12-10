@@ -21,7 +21,9 @@ sudo xbpx-install -y fonts-font-awesome fonts-ubuntu fonts-liberation2 fonts-lib
 # replace ls command in .bashrc file with line below
 # alias ls='exa -al --long --header --color=always --group-directories-first' 
 sudo xbpx-install -y exa
-
+# bpyton galculator youtube-dl-gui subleme geany flameshot okular peel google-chrome waterfox thunderbird
+# audacity brasero handbrake k3b mvp vlc
+# libreoffice pdfarranger Xornal++ redshift
 
 
 # XSessions and dwm.desktop
